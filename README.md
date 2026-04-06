@@ -1,2 +1,27 @@
-This project focuses on understanding customer churn patterns using an interactive Power BI dashboard. I cleaned and modeled the data, then built visuals to track churn rate, customer demographics, tenure, and subscription details. The goal is to help stakeholders quickly see which segments are most at risk and how churn changes over time.
-The report highlights key drivers behind customer churn and compares churned vs. retained customers across different dimensions. Using filters and slicers, users can explore the data from multiple angles and identify actionable strategies to improve retention, such as targeting specific high‑risk segments or adjusting plans and pricing.
+# Customer Churn Analysis
+This project analyzes customer churn behavior using data analysis and visualization techniques. The goal is to understand why customers leave and identify patterns that can help improve retention.
+---
+## Dashboard Preview
+
+![Dashboard](dashboard-preview.png)
+---
+## Tools Used
+- Python (Pandas, NumPy)
+- Power BI
+- SQL
+
+---
+
+## What I did
+- Cleaned and prepared customer dataset  
+- Analyzed churn patterns across demographics and usage  
+- Created KPIs like churn rate and retention rate  
+- Built a Power BI dashboard to visualize customer behavior  
+
+---
+
+## Key Insights
+- Customers with lower engagement were more likely to churn  
+- Certain customer segments had higher churn rates  
+- Usage patterns strongly influenced retention  
+
